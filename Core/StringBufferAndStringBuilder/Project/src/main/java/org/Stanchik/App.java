@@ -56,7 +56,22 @@ public class App
         System.out.println(strrrring2);
 
         //---------- Изменение длины ----------//
-        StringBuffer stringBuffer20
+        StringBuffer stringBuffer20 = new StringBuffer("hello");
+        stringBuffer20.setLength(10);
+        System.out.println(stringBuffer20.toString());
+
+        stringBuffer20.setLength(4);
+        System.out.println(stringBuffer20.toString());
+
+        //---------- Замена в строке ----------//
+        StringBuffer stringBuffer111 = new StringBuffer("hello world!");
+        stringBuffer111.replace(6, 11, "java");
+        System.out.println(stringBuffer111.toString());
+
+        //---------- Обратный порядок в строке ----------//
+        StringBuffer stringBuffer1111 = new StringBuffer("assembler");
+        stringBuffer1111.reverse();
+        System.out.println(stringBuffer1111.toString());
 
 
 
