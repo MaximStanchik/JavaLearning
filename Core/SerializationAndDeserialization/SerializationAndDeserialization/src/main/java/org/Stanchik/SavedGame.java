@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Arrays;
 
 public class SavedGame implements Serializable {
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 1L; // это уникальный идентификатор версии сериализованного класса
 
     private String[] territoriesInfo;
     private String[] resourcesInfo;

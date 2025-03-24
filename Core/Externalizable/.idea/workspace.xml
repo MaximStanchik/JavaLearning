@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6692eade-adc1-4e79-adfd-9cc85e8429f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/.idea/MethodsForWorkingWithStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsForWorkingWithStrings/MethodsForWorkingWithStrings/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/.idea/SerializationAndDeserialization_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SerializationAndDeserialization_1/SerializationAndDeserialization_1/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/.idea/StringBufferAndStringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBufferAndStringBuilder/Project/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SerializationAndDeserialization/SerializationAndDeserialization/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SerializationAndDeserialization/SerializationAndDeserialization/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SerializationAndDeserialization/SerializationAndDeserialization/src/main/java/org/Stanchik/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SerializationAndDeserialization/SerializationAndDeserialization/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SerializationAndDeserialization/SerializationAndDeserialization/src/main/java/org/Stanchik/SavedGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SerializationAndDeserialization/SerializationAndDeserialization/src/main/java/org/Stanchik/SavedGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../REST/PostgreSQL/Database/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../REST/PostgreSQL/Database/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StreamAPI/FunctionalInterfaces/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2uko3skfWGYGb4cYtPMQXeYjfZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6692eade-adc1-4e79-adfd-9cc85e8429f6" name="Changes" comment="" />
+      <created>1742801738923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742801738923</updated>
+      <workItem from="1742801739070" duration="28000" />
+    </task>
+    <servers />
+  </component>
+</project>
