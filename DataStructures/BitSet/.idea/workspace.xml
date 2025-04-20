@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2ad7778-f972-4049-ae09-01ba488bec38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumeration/Enumeration/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RandomSimpleProjects/Reflection_2/Reflection/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RandomSimpleProjects/Reflection_2/Reflection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RandomSimpleProjects/Reflection_2/Reflection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RandomSimpleProjects/Reflection_2/Reflection/src/main/java/org/Stanchik/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RandomSimpleProjects/Reflection_2/Reflection/src/main/java/org/Stanchik/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2w01vwE2TBp4yxJhD97ufMia2Aq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ad7778-f972-4049-ae09-01ba488bec38" name="Changes" comment="" />
+      <created>1745163913285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745163913285</updated>
+      <workItem from="1745163914170" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
