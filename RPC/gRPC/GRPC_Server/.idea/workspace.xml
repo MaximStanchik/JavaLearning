@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc77e965-03f7-4485-8549-a679f75d3d89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/.idea/EqualsAndHashcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Core/EqualsAndHashcode/EqualsAndHashcode/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/.idea/ChainOfResponsibility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2v8KpnJMdD3tE7suoQwy7fUX4KY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc77e965-03f7-4485-8549-a679f75d3d89" name="Changes" comment="" />
+      <created>1743521447526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743521447526</updated>
+      <workItem from="1743521448968" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
