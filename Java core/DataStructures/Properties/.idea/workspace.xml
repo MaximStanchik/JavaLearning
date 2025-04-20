@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02d68b54-01c7-461d-9808-4c0a9d85ec39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BitSet/BitSet/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitSet/BitSet/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitSet/BitSet/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/Dictionary/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashtable/Hashtable/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector/Vector/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitSet/BitSet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BitSet/BitSet/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2w0QXGJS099o7GzSllniOvNL4Cf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02d68b54-01c7-461d-9808-4c0a9d85ec39" name="Changes" comment="" />
+      <created>1745176050495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745176050495</updated>
+      <workItem from="1745176050495" duration="5000" />
+      <workItem from="1745176062720" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
