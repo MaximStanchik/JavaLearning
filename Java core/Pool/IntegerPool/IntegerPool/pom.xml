@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.Stanchik</groupId>
-  <artifactId>Generics_1</artifactId>
+  <artifactId>IntegerPool</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Generics_1</name>
+  <name>IntegerPool</name>
   <url>http://maven.apache.org</url>
 
   <properties>

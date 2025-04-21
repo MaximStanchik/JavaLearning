@@ -3,17 +3,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.Stanchik</groupId>
-  <artifactId>Generics_1</artifactId>
+  <artifactId>Comporator</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Generics_1</name>
+  <name>Comporator</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>21</maven.compiler.source>
-    <maven.compiler.target>21</maven.compiler.target>
   </properties>
 
   <dependencies>
