@@ -1,14 +1,12 @@
 package org.Stanchik.entity;
 
 import jakarta.persistence.*;
+import lombok.Builder;
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 
 @Data
-@Getter
-@Setter
 @Entity
+@Builder
 @Table(name = "cats")
 public class Cat {
     @Id

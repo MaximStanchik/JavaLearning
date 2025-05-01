@@ -1,1 +1,1 @@
-{"resources":{"database.sql":{"default-datasource":"postgres-jdbc-195c2c24a34-1a061641f5367fb4","default-catalog":"RESTAPIJAVALEARNING","default-schema":"public"}}}
+{"resources":{"Scripts/Script-1.sql":{"default-datasource":"postgres-jdbc-195c2c24a34-1a061641f5367fb4","default-catalog":"RESTAPIJAVALEARNING","default-schema":"public"},"database.sql":{"default-schema":"public","default-datasource":"postgres-jdbc-195c2c24a34-1a061641f5367fb4","default-catalog":"RESTAPIJAVALEARNING"}}}

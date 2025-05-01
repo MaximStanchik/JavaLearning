@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.Stanchik'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation 'org.springframework:spring-core:5.3.12'
+    implementation 'org.springframework:spring-context:5.3.12'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+wrapper {
+    gradleVersion '7.3'
+}

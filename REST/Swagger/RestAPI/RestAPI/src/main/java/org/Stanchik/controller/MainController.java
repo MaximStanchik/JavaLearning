@@ -1,9 +1,9 @@
 package org.Stanchik.controller;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.Stanchik.DTO.CatDTO;
 import org.Stanchik.entity.Cat;
 import org.Stanchik.repository.CatRepo;
 import org.springframework.http.HttpStatus;
@@ -18,11 +18,14 @@ import java.util.List;
 public class MainController {
 
     private final CatRepo catRepo;
-    private final ObjectMapper objectMapper;
 
     @PostMapping("/api/add")
-    public String addCat(@RequestBody Cat cat) {
-        log.info("New row: " + catRepo.save(cat));
+    public String addCat(@RequestBody CatDTO catDto) {
+        log.info("New row: " + catRepo.save(Cat.builder()
+                        .age(catDto.getAge())
+                        .name(catDto.getName())
+                        .weight(catDto.getDate())
+                .build()));
         return "Все добавилось успешно";
     }
 
