@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="716d8481-b8e4-41d9-b096-4a5164c2dafb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lombok/Lombok/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lombok/Lombok/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lombok/Lombok/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lombok/Lombok/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/.idea/Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/src/main/java/org/Stanchik/Intro/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java core/Lambda/Lambda/src/test/java/org/Stanchik/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/Streams/LongStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/BaseStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/Streams/BaseStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/DoubleStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/Streams/DoubleStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/IntStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/Streams/IntStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/StreamAPI/StreamAPI/src/main/java/org/Stanchik/LongStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Phaser/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Phaser/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../REST/Swagger/RestAPI/RestAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../REST/Swagger/RestAPI/RestAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../REST/Swagger/RestAPI/RestAPI/src/main/java/org/Stanchik/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../REST/Swagger/RestAPI/RestAPI/src/main/java/org/Stanchik/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../REST/Swagger/RestAPI/RestAPI/src/main/java/org/Stanchik/entity/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../REST/Swagger/RestAPI/RestAPI/src/main/java/org/Stanchik/entity/Cat.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="30KPld9MXq1Ppa5PEaDgxmEloWN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716d8481-b8e4-41d9-b096-4a5164c2dafb" name="Changes" comment="" />
+      <created>1753373445411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753373445411</updated>
+      <workItem from="1753373446586" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

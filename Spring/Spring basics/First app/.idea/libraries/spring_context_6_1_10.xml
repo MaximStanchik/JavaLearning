@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-context-6.1.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FirstApp/libs/spring-context-6.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

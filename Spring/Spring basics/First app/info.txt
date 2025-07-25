@@ -1,0 +1,2 @@
+Rus: простейшее приложение с использованием spring core.
+Eng: simple application using spring core.

@@ -1,6 +1,7 @@
 package org.Stanchik.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.Stanchik.DTO.CatDTO;
@@ -11,7 +12,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+@Tag(name = "main_methods")
 @Slf4j // добавление логирования. Такая штука есть в ломбок
 @RestController
 @RequiredArgsConstructor

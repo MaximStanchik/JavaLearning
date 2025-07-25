@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       https://www.springframework.org/schema/context/spring-context.xsd
+">
+
+    <context:property-placeholder location="classpath:myApplicationProperties"/>
+
+    <bean id="Dog" class="springIntro.Dog"></bean>
+    <bean id="Cat" class="springIntro.Cat"></bean>
+
+    <bean id="DogPerson"
+          class = "springIntro.Person">
+        <property name="pet" ref="Dog"></property>
+        <property name="surname" value = "Maxim"></property>
+        <property name="age" value = "30"></property>
+    </bean>
+
+    <bean id="CatPerson"
+          class = "springIntro.Person">
+        <property name="pet" ref="Cat"></property>
+        <property name="surname" value="${person.surname}"></property>
+        <property name="age" value = "${person.age}"></property>
+    </bean>
+
+</beans>
