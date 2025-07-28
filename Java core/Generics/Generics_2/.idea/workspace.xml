@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9241b2fb-3c4a-43d4-bcb7-a9b784290a38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java EE/Servlets/.idea/Servlets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/.idea/Logging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/src/main/java/org/Stanchik/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logging/Logging/src/test/java/org/Stanchik/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Multithreading/Concurrenct problems/MutexMonitorSemaphore/.idea/MutexMonitorSemaphore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Multithreading/Concurrenct problems/ProcessesThreadsAndSynchronizationBasics/.idea/ProcessesThreadsAndSynchronizationBasics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/CountDownLatch/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Synchronizers/CountDownLatch/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/CyclicBarrier/Ferry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Synchronizers/CyclicBarrier/Ferry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Exchanger/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Exchanger/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Exchanger/ExchangerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Exchanger/ExchangerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Phaser/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Phaser/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Semaphore/Parking.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Multithreading/Synchronizers/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Semaphore/Parking.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="30U2ZgUX9GYFGu7gtcTxTzfdBkh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9241b2fb-3c4a-43d4-bcb7-a9b784290a38" name="Changes" comment="" />
+      <created>1753667889593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753667889593</updated>
+      <workItem from="1753667891241" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

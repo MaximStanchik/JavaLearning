@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5225bf10-9dab-4bd0-9f66-7fd3656e23a4" name="Changes" comment="" />
+    <list default="true" id="5225bf10-9dab-4bd0-9f66-7fd3656e23a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/CountDownLatch/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Synchronizers/CountDownLatch/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/CyclicBarrier/Ferry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Synchronizers/CyclicBarrier/Ferry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Exchanger/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Exchanger/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Exchanger/ExchangerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Exchanger/ExchangerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Phaser/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Phaser/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Semaphore/Parking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Synchronizers/src/main/java/org/Stanchik/Synchronizers/Semaphore/Parking.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +28,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\User\Documents\GitHub\JavaLearning\Multithreading\Synchronizers\Synchronizers\src\main\java\org\Stanchik\Synchronizers" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745307225265</updated>
       <workItem from="1745307226459" duration="20000" />
+      <workItem from="1753623042671" duration="167000" />
     </task>
     <servers />
   </component>

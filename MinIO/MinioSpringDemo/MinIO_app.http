@@ -1,0 +1,21 @@
+@baseUrl = http://127.0.0.1:8087/files
+
+### 1.1. Загрузка файла
+POST {{baseUrl}}/upload
+Content-Type: multipart/form-data
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="burgers.png"
+Content-Type: image/png
+
+< содержимое файла burgers.png >
+--boundary--
+
+### 1.2. Удаление файла
+DELETE {{baseUrl}}/delete/burgers.png
+
+### 1.3. Попытка удалить несуществующий файл
+DELETE {{baseUrl}}/delete/nonexistent.txt
+
+### 1.4. Скачивание файла
+GET {baseUrl}/download/burgers.png
