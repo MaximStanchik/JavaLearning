@@ -1,0 +1,24 @@
+version: '3.1'
+services:
+  app:
+    image: '3d20be7552aa'
+    container_name: app
+    expose:
+      - '8080'
+    ports:
+      - '8080:8080'
+    environment:
+      - DB_USER=admin12345
+      - DB_PASSWORD=a12345
+      - DB_URL=jdbc:postgresql://db:5432/postgres
+    depends_on:
+      - db
+
+  db:
+    image: 'postgres'
+    container_name: RESTAPIJAVALEARNING
+    expose:
+      - '5432'
+    environment:
+      - POSTGRES_USER=admin12345
+      - POSTGRES_PASSWORD=a12345
