@@ -1,13 +1,11 @@
 package org.Stanchik.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.Stanchik.DTO.CatDTO;
 import org.Stanchik.entity.Cat;
 import org.Stanchik.repository.CatRepo;
-import org.Stanchik.service.MailSenderService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -20,7 +18,6 @@ import java.util.List;
 public class MainController {
 
     private final CatRepo catRepo;
-    private final MailSenderService mailSender;
 
     @PostMapping("/api/add")
     public String addCat(@RequestBody CatDTO catDto) {
@@ -60,20 +57,8 @@ public class MainController {
         int id = cat.getId();
         if (!catRepo.existsById(id)) {
             return "No such a row!";
-        }
-        else {
+        } else {
             return catRepo.save(cat).toString();
         }
-
     }
-    @GetMapping("/hello")
-    public void sayHelloFromCat(@RequestParam int id) {
-        var cat = catRepo.findById(id).orElseThrow();
-        mailSender.send(
-                "maximstanchik@gmail.com",
-                "Hello From Kitten!",
-                "Hello, my name is " + cat.getName() + ". Have a nice day!"
-        );
-    }
-
 }
